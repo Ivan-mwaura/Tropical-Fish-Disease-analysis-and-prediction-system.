@@ -1,0 +1,59 @@
+﻿disease,source,pits_on_head_lateral_line,stringy_feces,white_feces,difficulty_swimming,erratic_swimming,bulging_eyes,cloudy_eyes,weight_loss,deformed,discolored,lost_appetite,lethargy,cant_stay_upright,near_surface,difficulty_breathing,pale_gills,inflamed_gills,scratching,skin_inflamed,skin_lesions,red_streaks_fin,cauliflower_growths,red_spots,cottony_growths,mouth_lesions,white_spots,yellow_spots,mucous_skin,velvety_skin,visible_parasite,protruding_scales,bloated_abdomen,clamped_fins,ragged_fins
+low_oxygen,Disorders and Diseases of Fish - All Other Pets - Merck Veterinary Manual (merckvetmanual.com),0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+flukes,Disorders and Diseases of Fish - All Other Pets - Merck Veterinary Manual (merckvetmanual.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+columnaris,Disorders and Diseases of Fish - All Other Pets - Merck Veterinary Manual (merckvetmanual.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ich,Disorders and Diseases of Fish - All Other Pets - Merck Veterinary Manual (merckvetmanual.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+velvet,Disorders and Diseases of Fish - All Other Pets - Merck Veterinary Manual (merckvetmanual.com),0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+anchor_worm,Disorders and Diseases of Fish - All Other Pets - Merck Veterinary Manual (merckvetmanual.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+fish_lice,Disorders and Diseases of Fish - All Other Pets - Merck Veterinary Manual (merckvetmanual.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+aeromonas,Disorders and Diseases of Fish - All Other Pets - Merck Veterinary Manual (merckvetmanual.com),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,1,0,1
+mycobacteria,Disorders and Diseases of Fish - All Other Pets - Merck Veterinary Manual (merckvetmanual.com),0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+columnaris,Common Fish Ailments | Hartz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+fin_rot,Common Fish Ailments | Hartz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+ich,Common Fish Ailments | Hartz,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+velvet,Common Fish Ailments | Hartz,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+anchor_worm,18 Of The MOST COMMON FISH DISEASES (And How To Cure Them!) - AquariumStoreDepot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+constipation,18 Of The MOST COMMON FISH DISEASES (And How To Cure Them!) - AquariumStoreDepot,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+low_oxygen,18 Of The MOST COMMON FISH DISEASES (And How To Cure Them!) - AquariumStoreDepot,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ich,18 Of The MOST COMMON FISH DISEASES (And How To Cure Them!) - AquariumStoreDepot,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+velvet,18 Of The MOST COMMON FISH DISEASES (And How To Cure Them!) - AquariumStoreDepot,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+fungal_infection,18 Of The MOST COMMON FISH DISEASES (And How To Cure Them!) - AquariumStoreDepot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+hexamita,18 Of The MOST COMMON FISH DISEASES (And How To Cure Them!) - AquariumStoreDepot,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hemorrhagic_septicemia,18 Of The MOST COMMON FISH DISEASES (And How To Cure Them!) - AquariumStoreDepot,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+fin_rot,18 Of The MOST COMMON FISH DISEASES (And How To Cure Them!) - AquariumStoreDepot,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+columnaris,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0
+mycobacteria,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dropsy,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+hemorrhagic_septicemia,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+swim_bladder_disease,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+ich,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+velvet,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mycobacteria,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+anchor_worm,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+fish_lice,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+flukes,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fin_rot,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+fungal_infection,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+lymphocystis,Fish Diseases: A Complete Guide Of Various Water Disease (badmanstropicalfish.com),0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+anchor_worm,Fish illnesses How to spot them | Tetra® (tetra-fish.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+flukes,Fish illnesses How to spot them | Tetra® (tetra-fish.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+dropsy,Fish illnesses How to spot them | Tetra® (tetra-fish.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+ich,Fish illnesses How to spot them | Tetra® (tetra-fish.com),0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+fungal_infection,Fish illnesses How to spot them | Tetra® (tetra-fish.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+hemorrhagic_septicemia,Fish illnesses How to spot them | Tetra® (tetra-fish.com),0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+fish_lice,Fish illnesses How to spot them | Tetra® (tetra-fish.com),0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fin_rot,Fish illnesses How to spot them | Tetra® (tetra-fish.com),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mycobacteria,List of aquarium diseases - Wikipedia,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fin_rot,List of aquarium diseases - Wikipedia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+swim_bladder_disease,List of aquarium diseases - Wikipedia,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+lymphocystis,List of aquarium diseases - Wikipedia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+hexamita,List of aquarium diseases - Wikipedia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+flukes,List of aquarium diseases - Wikipedia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+anchor_worm,List of aquarium diseases - Wikipedia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+dropsy,List of aquarium diseases - Wikipedia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+aeromonas,"Fish Aeromonas & Vibrio Disease | Septicemia, Pop Eye, Treatment (americanaquariumproducts.com)",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+hemorrhagic_septicemia,"Fish Aeromonas & Vibrio Disease | Septicemia, Pop Eye, Treatment (americanaquariumproducts.com)",0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+aeromonas,"Diagnosis and Treatment of ""Aeromonas hydrophilia"" Infection of Fish - AS-461 (uri.edu)",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+constipation,Treating and Preventing Aquarium Fish Constipation - ONEdersave blog | EcoBio-Block Makes Cloudy Water Clear and Healthy,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+constipation,Aquarium Fish Constipation | BeChewy,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+hexamita,Hexamita: Fish Hole In The Head Disease | BeChewy,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
